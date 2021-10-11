@@ -1,0 +1,33 @@
+.appWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin:0 auto;
+
+}
+.naw{
+  background-color: orange;
+  height: 60px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.data{
+  background-color: deeppink;
+}
+.naw form {
+  width: 100%;
+
+}
+.naw input{
+
+  width: 800px;
+  height: 25px;
+}
+
+.addPrizonik{
+  display: flex;
+  flex-direction: column;
+}
